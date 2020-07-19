@@ -4,5 +4,5 @@ The app opens up with a big egg as the main attention. A seek bar is provided at
 ## Further Explanation
 When the timer is set and after some time it gets down to 0. Sound audio is played, which is like the ones we hear on alarm clocks. You will use a timer at the center of the screen. Using Java Android Studio it can be compiled to set up an APK.
 ## Requirements
-Android Jellybean API 22 (minimum)
+Android Jellybean API 22 (minimum),
 Android Studio to generate APK file 
